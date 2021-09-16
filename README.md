@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Zohaib Ahmed
 #### Designer & Full Stack Developer
 
-[![Zohaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zohaib Ahmed)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zohaib1397)](https://github.com/anuraghazra/github-readme-stats)
 
 I am Zohaib, working for more than 8 years as a Graphic Designer and just on to CODE now.
 [Designing Projects](https://www.youtube.com/channel/UCmsmC2JRSYdWUowkGkT6WrQ)
