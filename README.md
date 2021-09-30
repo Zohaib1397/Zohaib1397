@@ -14,7 +14,7 @@ I am Zohaib, working for more than 8 years as a Graphic Designer and just on to 
 [Designing Projects](https://www.youtube.com/channel/UCmsmC2JRSYdWUowkGkT6WrQ)
 
 ### Skills
- HTML / CSS / Kotlin / Java / C++ /  Android Development / 3D Modeling / 3D Rendering / 2D Animation in Adobe After Effects / 
+ HTML / CSS / Kotlin / Java / C++ /  Android Development / 3D Modeling / 3D Rendering / 2D Animation in Adobe After Effects / Figma UI & UX designing
 
 - 🌱 I’m currently learning at Capital University of Science & Technology 
 
