@@ -12,7 +12,7 @@
 
 ### About
 
-I am Zohaib, working for more than 8 years as a Graphic Designer and just on to CODE now.
+I am Zohaib, working for more than 10 years as a Graphic Designer and just on to CODE now.
 [Designing Projects](https://www.youtube.com/channel/UCmsmC2JRSYdWUowkGkT6WrQ)
 
 ### Skills
