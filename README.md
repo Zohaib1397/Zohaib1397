@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Zohaib Ahmed
 #### Designer & Full Stack Developer
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zohaib1397&theme=xcode)](https://github.com/Zohaib1397)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Zohaib1397&theme=xcode)](https://github.com/Zohaib1397/github-readme-activity-graph)
 
 
