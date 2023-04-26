@@ -2,14 +2,14 @@
 #### Designer & Full Stack Developer
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Zohaib1397&theme=xcode)](https://github.com/Zohaib1397)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Zohaib1397&theme=xcode)](https://github.com/Zohaib1397/github-readme-activity-graph)
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zohaib1397&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib1397&theme=dark)](https://github.com/Zohaib1397)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Zohaib1397)](https://github.com/Zohaib1397/github-readme-activity-graph)
+
 ### About
 
 I am Zohaib, working for more than 10 years as a Graphic Designer and just on to CODE now.
