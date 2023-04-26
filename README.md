@@ -17,7 +17,7 @@ I am Zohaib, working for more than 10 years as a Graphic Designer and just on to
 ### Skills
  HTML / CSS / Kotlin / Java / C++ /  Android Development / 3D Modeling / 3D Rendering / 2D Animation in Adobe After Effects / Figma UI & UX designing
 
-- 🌱 I’m currently learning at Capital University of Science & Technology 
+- 🌱 I'm a student of Software Engineering at Capital University of Science & Technology.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zohaib1397) 
 
