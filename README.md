@@ -1,9 +1,6 @@
 ### Hi there 👋, I'm Zohaib Ahmed
 #### Designer & Full Stack Developer
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Zohaib1397&theme=xcode)](https://github.com/Zohaib1397/github-readme-activity-graph)
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zohaib1397&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib1397&theme=dark)](https://github.com/Zohaib1397)
 
