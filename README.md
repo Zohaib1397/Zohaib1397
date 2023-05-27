@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Zohaib Ahmed
 #### Designer & Full Stack Developer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zohaib1397&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zohaib1397&theme=dark)](https://github.com/Zohaib1397)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zohaib1397&show_icons=true&theme=dark)
 
 
 
