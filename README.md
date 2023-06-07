@@ -22,4 +22,3 @@ I am Zohaib, working for more than 10 years as a Graphic Designer and just on to
 
 
 
-![Profile views](https://gpvc.arturio.dev/Zohaib1397) 
