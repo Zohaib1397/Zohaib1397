@@ -14,7 +14,7 @@ I am Zohaib, working for more than 10 years as a Graphic Designer and just on to
 ### Skills
  HTML / CSS / JavaScript ES6+ / Dart / Flutter / Kotlin / Java / C++ / Android Development / C# Unity Game Development / 3D Modeling / 3D Rendering / Figma UI & UX designing
 
-- 🌱 I'm a student of Software Engineering at Capital University of Science & Technology.
+- 🌱 I'm a Software Engineer at Capital University of Science & Technology.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Zohaib1397) 
 
